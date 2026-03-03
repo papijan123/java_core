@@ -11,8 +11,6 @@ class Maths{
 		System.out.println(Math.round(2.6));
 		System.out.println(Math.ceil(2.3));
 		System.out.println(Math.floor(2.6));
-		System.out.println(Math.round(-2.3));
-		System.out.println(Math.ceil(-2.3));
-		System.out.println(Math.floor(-2.6));
 	}
 }
+		
