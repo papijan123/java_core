@@ -1,7 +1,7 @@
 class Switchcase{
 	public static void  main(String args[]){
 	
-	int day=5;
+	int day=6;
 		
 		switch (day){
 		
